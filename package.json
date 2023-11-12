@@ -9,3 +9,5 @@
     "crypto",
     "ethereum",
     "web3modal",
+    "web3modalvue",
+    "vueweb3",

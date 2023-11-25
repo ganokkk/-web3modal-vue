@@ -36,3 +36,5 @@
   "dependencies": {
     "detect-browser": "^5.2.0",
     "vue-styled-components": "^1.6.0"
+  }
+}

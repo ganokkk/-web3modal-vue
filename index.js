@@ -4,3 +4,4 @@ export default {
     install(Vue) {
         Vue.component("web3-modal-vue", Web3ModalVue)
     }
+}
